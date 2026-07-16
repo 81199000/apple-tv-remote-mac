@@ -2,7 +2,7 @@
 
 ![许可证](https://img.shields.io/badge/许可证-MIT-yellow.svg)
 
-![遥控器助手图标](RemotasticIcon.png)
+![遥控器助手图标](Remotastic.iconset/icon_512x512.png)
 
 这是一个 macOS 菜单栏应用，可以把第一代 Apple TV Siri Remote（型号 A1513）变成无线触控板、鼠标和键盘遥控器，用遥控器控制 Mac 电脑。
 
